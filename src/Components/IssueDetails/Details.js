@@ -35,6 +35,7 @@ const Details = () => {
             .map((data) => (
               <p>{data}</p>
             ))}
+          <p>Coming Soon...</p>
           <h1>Hello</h1>
         </div>
       </div>
