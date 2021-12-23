@@ -1,0 +1,24 @@
+
+Design a simplified version of Github’s Issues page
+
+A simplified version of Github issues page needs to be created (refer any public repo's Issues page).
+ Ignore the items in the header (search, filtering, stars, etc.) and only focus on implementing the list of issues. 
+ To begin with, first, collect open issues from Github’s API and display them in a list. After this,
+  add a pagination control to facilitate navigation across a complete list of issues.
+
+Optional: In case you also add a React Router, one should be able to navigate directly to a particular issue page of choice.
+
+Github Issues API link: https://docs.github.com/en/rest/reference/issues
+----------
+
+Request you to submit the same (zip / share on github) by Dec 24, 2021.
+
+Kindly let us know in case of any concerns.
+Wishing you all the very best of luck.
+
+
+Best Regards,
+
+
+
+

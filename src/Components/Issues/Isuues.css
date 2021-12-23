@@ -1,0 +1,33 @@
+.issue-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 70px;
+}
+
+.open_circle {
+  color: rgb(41, 248, 41);
+}
+
+.user_data {
+  margin: 4px 0 0 35px;
+  color: rgb(102, 101, 101);
+}
+
+.all_data a {
+  text-decoration: none;
+  color: rgb(102, 101, 101);
+}
+
+a:hover{
+  color: blue;
+}
+
+.pages {
+  margin-top: 10px;
+}
+.comments_issues {
+  display: flex;
+  justify-content: space-between;
+}
