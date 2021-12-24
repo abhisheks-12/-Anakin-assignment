@@ -55,7 +55,7 @@ const Isuues = () => {
       tempPages.push(i);
     }
     setAllPages([...tempPages]);
-    setPageNo(page - 1);
+    setPageNo(page);
   };
 
   return (
@@ -93,6 +93,8 @@ const Isuues = () => {
             ))}
         </ul>
       </div>
+      
+
 
       <div className="pages">
         <nav aria-label="Page navigation example">
